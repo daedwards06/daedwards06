@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @daedwards06
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Dom
+- 👀 I’m interested in Crypto
+- 🌱 I’m currently learning Solidity
+- 💞️ I’m looking to collaborate on all thing Web3
+
 
 <!---
 daedwards06/daedwards06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
