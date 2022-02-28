@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dom
 - 👀 I’m interested in Crypto
 - 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on all thing Web3
+- 💞️ I’m looking to collaborate on all things Web3
 
 
 <!---
